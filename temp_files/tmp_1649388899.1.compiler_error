@@ -1,0 +1,4 @@
+./temp_files/tmp_1649388899.1.cpp: In function ‘void Test1(std::vector<int>)’:
+./temp_files/tmp_1649388899.1.cpp:21:3: error: ‘stdvv’ was not declared in this scope
+   21 |   stdvv = {{1,2,3},{1,3,2},{2,1,3},{2,3,1},{3,1,2},{3,2,1}};
+      |   ^~~~~
